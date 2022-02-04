@@ -24,8 +24,8 @@
 
 <h2> Anggota Kelompok 19 </h2>
 
-<h3> David Karel Halomoan , ID : 359 </h3>
-<h3> Maria Khelli , ID : 85 </h3>
-<h3> Filan Muhammad Kelvin , ID : 560 </h3>
-<h3> Juan Christopher Santoso , ID : 402 </h3>
+<h5> David Karel Halomoan , ID : 359 </h5>
+<h5> Maria Khelli , ID : 85 </h5>
+<h5> Filan Muhammad Kelvin , ID : 560 </h5>
+<h5> Juan Christopher Santoso , ID : 402 </h5>
 <strong> Seluruh bagian dari tugas ini dikerjakan oleh David Karel (ID : 359). </strong>
