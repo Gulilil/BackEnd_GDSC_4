@@ -1,2 +1,31 @@
-# movie-wishlist-website
-<h1> Ini cuma ngetest karena penasaran bikinnya gimana <h1>
+<h1> Movie Wishlist Website </h1>
+
+<h2> Screenshots</h2>
+
+<h3> Login Page </h3>
+<img src="screenshots/login page.jpg">
+ 
+<h3> Register Page </h3>
+<img src="screenshots/register page.jpg">
+ 
+<h3> Home Page </h3>
+<img src="screenshots/home page.jpg">
+
+<h3> Movie Searched Page </h3>
+<img src="screenshots/searched image.jpg">
+
+<h3> Movie Detail Page </h3>
+<img src="screenshots/movie detail.jpg">
+
+<h3> Wishlist Page </h3>
+<img src="screenshots/wishlist page.jpg">
+
+<h2> Penjelasan Database</h2>
+
+<h2> Anggota Kelompok 19 </h2>
+
+<h3> David Karel Halomoan , ID : 359 </h3>
+<h3> Maria Khelli , ID : 85 </h3>
+<h3> Filan Muhammad Kelvin , ID : 560 </h3>
+<h3> Juan Christopher Santoso , ID : 402 </h3>
+<strong> Seluruh bagian dari tugas ini dikerjakan oleh David Karel (ID : 359). </strong>
