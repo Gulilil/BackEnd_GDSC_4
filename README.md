@@ -21,6 +21,9 @@
 <img src="screenshots/wishlist page.jpg">
 
 <h2> Penjelasan Database</h2>
+<h5> Database terdiri atas dua tabel yaitu tabel user dan tabel wishlist </h5>
+<h5> Tabel user terdiri atas username dan password pengguna yang digunakan untuk login ke dalam website </h5>
+<h5> Di sisi lain, tabel wishlist digunakan untuk menyimpan movie yang disimpan sebagai wishlist oleh pengguna </h5>
 
 <h2> Anggota Kelompok 19 </h2>
 
